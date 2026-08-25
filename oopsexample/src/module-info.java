@@ -4,5 +4,5 @@
 /**
  * 
  */
-module oopsexamples {
+module oopsexample {
 }
